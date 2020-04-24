@@ -1,13 +1,19 @@
 [
     {
         "bus": "22",
-        "long": "000",
-        "lat": "000",
-        "stops": [ "Husum Torv", "Frederikssundsvej" ]
+        "stops": [ 
+            "Husum Torv": {
+                "long": "000",
+                "lat": "000"
+            }, 
+            "Frederikssundsvej": {
+                "long": "111",
+                "lat": "111"
+            } 
+        ]
     },
     {
         "bus": "133",
-        "long": "000",
-        "lat": "000"
+        "stops": [ "Valby Station", "Toftegårds Plads" ]
     }
 ]
