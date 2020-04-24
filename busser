@@ -1,9 +1,12 @@
-{
-    "busser": {
-        "22",
-        "133": {
-            "Valby Station",
-            "Toftegårds Plads"
-        }
+[
+    {
+        "bus": "22",
+        "long": "000",
+        "lat": "000"
+    },
+    {
+        "bus": "133",
+        "long": "000",
+        "lat": "000"
     }
-}
+]
