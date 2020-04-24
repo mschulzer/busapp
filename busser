@@ -1,9 +1,9 @@
 {
-    "busser": [
+    "busser": {
         "22",
         "133": [
             "Valby Station",
             "Toftegårds Plads"
         ]
-    ]
+    }
 }
