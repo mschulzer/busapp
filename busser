@@ -1,6 +1,13 @@
 {
-    "b22": {
-        "0": "Husum Torv",
-        "1": "Frederikssundsvej"
-    }
+    "busser": [
+        "22": [
+            "Husum Torv",
+            "Frederiksundssvej"
+        ],
+        
+        "133": [
+            "Valby St.",
+            "Toftegårds Plads"
+        ]
+    ]
 }
