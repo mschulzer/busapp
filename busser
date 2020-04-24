@@ -5,7 +5,9 @@
         "lat": "000",
         "stop": [
             {
-                "0": "Husum Torv",
+                "0": "Husum Torv"
+            },
+            {
                 "1": "Frederikssundsvej"
             }
         ]
