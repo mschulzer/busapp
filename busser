@@ -61,16 +61,9 @@
     },
     {
         "bus": "133",
-        "stops": [ {
-             "Valby Station": [{
-                 "long": "000", 
-                 "lat": "000"
-             }],
-
-             "Toftegårds Plads": [{
-                 "long": "111", 
-                 "lat": "111"
-             }]
-        }]
+        "stops": [
+            { "Valby Station": ["000", "111"] }, 
+            { "Toftegårds Plads": ["222", "333"] }
+        ]
     }
 ]
