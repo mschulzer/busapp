@@ -3,7 +3,7 @@
         "bus": "22",
         "long": "000",
         "lat": "000",
-        "stop": {
+        "stops": {
                 "0": "Husum Torv",
                 "1": "Frederikssundsvej"
         }
