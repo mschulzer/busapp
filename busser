@@ -2,7 +2,8 @@
     {
         "bus": "22",
         "long": "000",
-        "lat": "000"
+        "lat": "000",
+        "stops": "Husum Torv"
     },
     {
         "bus": "133",
